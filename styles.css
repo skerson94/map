@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+font-family: sans-serif;
+}
+
+div#main {
+  max-width: 780pix
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 20px;
+}
